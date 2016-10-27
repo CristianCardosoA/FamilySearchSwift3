@@ -1,0 +1,26 @@
+/* 
+  LocalizableStrings.strings
+  FamilySearchIosSampleApp
+
+  Created by Eduardo Flores on 6/9/16.
+  Copyright © 2016 FamilySearch. All rights reserved.
+*/
+
+// Error messages
+"loginErrorToken" = "Error getting the token. Check username and password";
+
+// Tab names
+"tabAncestorsName" = "Ancestors";
+"tabMemoriesName" = "Memories";
+
+// Login activity
+"usernamePlaceholderText" = "Username";
+"passwordPlaceholderText" = "Password";
+"loginText" = "Login";
+"loginDataUsage" = "By clicking the \"LOGIN\" button, I agree to [Product Name] knowing my basic FamilySearch profile information and accessing data about my ancestors from the FamilySearch family tree. [Product Name] will use this information in accordance with their respective terms of service and privacy policies.";
+
+// Ancestor details Activity
+"ancestorDetailsTitle" = "Person";
+"ancestorDetailsBirth" = "Birth:";
+"ancestorDetailsDeath" = "Death:";
+
