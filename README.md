@@ -1,4 +1,4 @@
-# mobile-iOS-sample
+# mobile-iOS-sample - Swift 3
 Sample mobile native iOS app.
 
 ### Tools required
